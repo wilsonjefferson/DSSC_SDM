@@ -1,2 +1,0 @@
-dssc/hello/Main.java
- dssc.hello.Main
